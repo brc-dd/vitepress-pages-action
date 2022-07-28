@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "packageManager": "pnpm@7.6.0",
+  "devDependencies": {
+    "vitepress": "latest",
+    "vue": "latest"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search",
+        "@types/react",
+        "react",
+        "react-dom"
+      ]
+    }
+  }
+}
