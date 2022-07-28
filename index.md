@@ -6,6 +6,10 @@ outline: deep
 
 To configure your [VitePress site](https://vitepress.vuejs.org/guide/getting-started 'Getting Started') to publish with GitHub Actions:
 
+::: tip
+Directly go to step 6 if you know that using GitHub Actions as Pages' source is available for you.
+:::
+
 1. On GitHub, navigate to your site's repository.
 
 2. Under your repository name, click **Settings**.
